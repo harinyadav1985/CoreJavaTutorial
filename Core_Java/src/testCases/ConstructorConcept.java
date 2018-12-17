@@ -23,7 +23,7 @@ public class ConstructorConcept {
 	}
 // how to call a constructor? when we create an object of the class constructor will be automatically called
 public static void main(String args[]){
-	ConstructorConcept cc = new ConstructorConcept();//ConstructorConcept() this is default constructor
+	ConstructorConcept cc = new ConstructorConcept();//ConstructorExample1() this is default constructor
 	ConstructorConcept cc1 = new ConstructorConcept(10);
 	ConstructorConcept cc2 = new ConstructorConcept(20);
 // when we have not created Default constructor then also in class there is a default constructor(hidden) 
